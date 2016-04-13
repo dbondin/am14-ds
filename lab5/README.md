@@ -23,3 +23,5 @@ $ ./pack 13 in.txt out.lzw
 Пример запуска распаковщика:
 
 $ ./unpack out.lzw out.txt
+
+Руализуем как .so для lzwy.h
